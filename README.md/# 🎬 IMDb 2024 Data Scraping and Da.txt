@@ -26,5 +26,4 @@ Extract data such as movie name, genre, rating, votes, and duration from IMDb's 
 
 ---
 
-## 🗂️ Project Structure
 
